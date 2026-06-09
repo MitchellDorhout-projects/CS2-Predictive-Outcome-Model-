@@ -10,6 +10,5 @@ The tracker. I built a logging system that locks in every prediction before the 
 How it all fits together
 Scrape → rate → predict → log, every day, automatically. The pieces hand off to each other so the whole pipeline runs start to finish without me in the middle of it. That part — getting separate tools to run as one automated system — is what I'm proudest of.
 
-Built with
-Python · Google Apps Script · HLTV data · Google Sheets
+Built with: Python · Google Apps Script · HLTV data · Google Sheets
 <img width="1920" height="1080" alt="Counter Strike Model - Google Sheets - Google Chrome 6_9_2026 9_53_38 AM" src="https://github.com/user-attachments/assets/03f5a18a-e089-47f9-b2d9-17582ab7a010" />
